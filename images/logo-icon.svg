@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Green Construction Logo">
+  <defs>
+    <linearGradient id="gc-inner-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9CCC65"/>
+      <stop offset="55%" stop-color="#4C8C3F"/>
+      <stop offset="100%" stop-color="#1B5E20"/>
+    </linearGradient>
+    <clipPath id="gc-outer-clip">
+      <circle cx="100" cy="100" r="96"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#gc-outer-clip)">
+    <circle cx="100" cy="100" r="96" fill="#8BC34A"/>
+    <circle cx="108" cy="108" r="82" fill="#ffffff"/>
+    <circle cx="108" cy="108" r="76" fill="url(#gc-inner-gradient)"/>
+    <path d="M122,54 C86,46 52,74 56,112 C60,150 98,172 132,155 C158,142 160,110 136,98 C122,91 106,98 108,113 L176,181"
+          fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
