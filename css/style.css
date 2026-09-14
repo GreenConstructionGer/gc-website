@@ -322,24 +322,8 @@ section { padding: 72px 0; }
   color: var(--ink-soft);
   white-space: nowrap;
 }
-.cert-badges { display: flex; gap: 18px; flex-wrap: wrap; align-items: center; }
-.cert-badge {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 8px 14px;
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  font-size: 0.86rem;
-  font-weight: 700;
-  color: var(--ink);
-  background: var(--surface-alt);
-}
-.cert-badge .dot { width: 8px; height: 8px; border-radius: 50%; }
-.cert-badge.iso9001 .dot { background: #1565c0; }
-.cert-badge.iso14001 .dot { background: #2e7d32; }
-.cert-badge.iso45001 .dot { background: #c62828; }
-.cert-badge.entsorgung .dot { background: #78909c; }
+.cert-badges { display: flex; gap: 20px; flex-wrap: wrap; align-items: center; }
+.cert-badges img { width: 84px; height: 84px; flex-shrink: 0; }
 
 /* ---------------------------------------------------------------------- */
 /* Contact form                                                            */

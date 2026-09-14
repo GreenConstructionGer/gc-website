@@ -1,0 +1,15 @@
+<svg viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ISO 14001 zertifiziert">
+  <defs>
+    <path id="arc14001" d="M 66,186.2 A 88,88 0 1 1 154,186.2" fill="none"/>
+  </defs>
+  <circle cx="110" cy="110" r="100" fill="#2e7d32"/>
+  <circle cx="110" cy="110" r="76" fill="#ffffff"/>
+  <text font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.5" fill="#ffffff">
+    <textPath href="#arc14001" startOffset="50%" text-anchor="middle">ENVIRONMENTAL MANAGEMENT SYSTEM</textPath>
+  </text>
+  <text x="110" y="88" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#12250f">ISO</text>
+  <text x="110" y="123" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800" fill="#12250f">14001</text>
+  <text x="110" y="144" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#12250f">CERTIFIED</text>
+  <rect x="90" y="190" width="40" height="36" rx="8" fill="#2e7d32"/>
+  <path d="M 99,208 L 107,216 L 122,197" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
